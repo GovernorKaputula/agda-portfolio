@@ -20,5 +20,3 @@ agda --safe --without-K Portfolio.agda
 ```
 
 The workflow installs `agda-bin` on Ubuntu 24.04 and runs the same check. See the Actions tab for the compiler result and version.
-
-These examples were prepared with AI assistance as introductory portfolio samples. They do not represent prior client work or independently assessed expertise.
